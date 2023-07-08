@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Implementation of Kriging Convolutional Networks
-subtitle: https://github.com/tufts-ml/kcn-torch#a-pytorch-implementation-of-kriging-convolutional-networks
+subtitle: Application of GNN and Kriging to Spatial Interpolation
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Graph Nerual Network, Torch, Torch Geometric]
 comments: true
 ---
 
