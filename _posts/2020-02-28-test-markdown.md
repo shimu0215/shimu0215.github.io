@@ -10,7 +10,7 @@ comments: false
 
 This repo contains the PyTorch implementation of Kriging Convolutional Networks (KCNs) [1]. The original code release was an implementation with TensorFlow 1.x, which is not well supported now. In this repo, we update the implementation with PyTorch and PyTorch Geometric. We hope this new implementation will help researchers in this field. If you have any questions about this repo, please feel free to raise issues.
 
-**[Github:](https://github.com/tufts-ml/kcn-torch#a-pytorch-implementation-of-kriging-convolutional-networks)**
+**Github : https://github.com/tufts-ml/kcn-torch#a-pytorch-implementation-of-kriging-convolutional-networks**
 
 ## Kriging Convolutional Networks
 
