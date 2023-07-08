@@ -3,16 +3,16 @@ layout: post
 title: Implementation of Kriging Convolutional Networks
 subtitle: Application of GNN and Kriging to Spatial Interpolation
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: []
 tags: [Graph Nerual Network, Torch, Torch Geometric]
 comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This repo contains the PyTorch implementation of Kriging Convolutional Networks (KCNs) [1]. The original code release was an implementation with TensorFlow 1.x, which is not well supported now. In this repo, we update the implementation with PyTorch and PyTorch Geometric. We hope this new implementation will help researchers in this field. If you have any questions about this repo, please feel free to raise issues.
 
 **Here is some bold text**
 
-## Here is a secondary heading
+## Kriging Convolutional Networks
 
 Here's a useless table:
 
