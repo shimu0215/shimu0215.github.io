@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Implementation of Kriging Convolutional Networks
+subtitle: https://github.com/tufts-ml/kcn-torch#a-pytorch-implementation-of-kriging-convolutional-networks
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
