@@ -19,7 +19,7 @@ subtitle: Seeking for a PhD/RA position.
 
 #### Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
 
-### Work Experience
+## Work Experience
 
 #### ATMAN INTELLIGENT TECHNOLOGY CO. LTD
 JAVA and NLP develop engineer intern Aug. 2020-Feb. 2021
