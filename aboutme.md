@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wenrui Zhao
-subtitle: Master student in Tufts University. Seeking for a PhD/RA position.
+subtitle: Master student in Tufts University major in EE. 
 ---
 
 ## Education
