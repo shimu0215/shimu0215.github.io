@@ -32,6 +32,6 @@ I was highly praised by my colleagues and mentors in the 2020 year-end evaluatio
 
 #### Research Assistant Intern, 02/2017-02/2017
 
-#### Skill: C++, Likong
+#### Skills: C++, Likong
 
 In this short-term research internship, my team was responsible for designing a control system based on Modbus communication protocol for intelligent buildings, where control signals are transmitted through signal lines and Wi-Fi. We were also testing our design on automation control software.
