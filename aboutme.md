@@ -11,7 +11,6 @@ Master of Science, Electrical Engineering
 
 #### Xi’an University of Architecture and Technology, Xi`an, China, 09/2019 - 05/2021
 Bachelor of Science, Electrical Engineering
-
 Bachelor of Science, Architecture
 
 #### Beijing Normal University, Beijing, China, 02/2021 - 07/2021
