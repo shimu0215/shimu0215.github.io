@@ -5,9 +5,15 @@ subtitle: Seeking for a PhD/RA position.
 ---
 
 ### Education
-#### Tufts University
-Master of Science, Electrical Engineering, 
-- I'm extremely loyal to my family
+
+#### Tufts University, Medford, MA, 02/2021 - 05/2023
+Master of Science, Electrical Engineering
+
+#### Xi’an University of Architecture and Technology, Xi`an, China, 09/2019 - 05/2021
+Bachelor of Science, Electrical Engineering
+Bachelor of Science, Architecture
+
+
 
 What else do you need?
 
