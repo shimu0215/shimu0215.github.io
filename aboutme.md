@@ -29,7 +29,7 @@ For details on my work experience, please access it through the navigation bar.
 NLP and Java Engineer Aug. 2020-Feb. 2021
 
 #### Institute of Automation, Chinese Academy of Sciences
-Research Assistant Aug. 2020-Feb. 2021
+Research Assistant Feb. 2017-Feb. 2017
 
 
 
