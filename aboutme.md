@@ -23,7 +23,7 @@ Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
 
 ## Work Experience
 
-For details on my work experience, please access it through the navigation bar.
+For details on my work experience, please access through the navigation bar.
 
 #### ATMAN INTELLIGENT TECHNOLOGY CO. LTD
 NLP and Java Engineer Aug. 2020-Feb. 2021
