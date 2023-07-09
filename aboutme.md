@@ -15,8 +15,8 @@ subtitle: Master student in Tufts University. Seeking for a PhD/RA position.
 For details on my work experience, please access through the navigation bar.
 
 - ATMAN Intelligent Technology CO. LTD
-  NLP and Java Engineer, Aug. 2020-Feb. 2021
-- Institute of Automation, Chinese Academy of Sciences, Research Assistant, Feb. 2017-Feb. 2017
+  NLP and Java Engineer, 08/2020-02/2021
+- Institute of Automation, Chinese Academy of Sciences, Research Assistant, 02/2017-02/2017
 
 ## Academic Visiting
 
