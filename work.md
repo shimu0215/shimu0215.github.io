@@ -6,9 +6,9 @@ subtitle:
 
 ## ATMAN Intelligent Technology CO. LTD 
 
-NLP and Java Engineer, 08/2020-02/2021
+#### NLP and Java Engineer, 08/2020-02/2021
 
-### Skills: Java, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
+#### Skills: Java, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
 
 ATMAN is a start-up company founded by a Microsoft team, which is committed to providing information upgrading services(mainly based on NLP and GNN) for the pharmaceutical industry. 
 My team mainly serves Sanofi and our products have received high praise from users.
@@ -30,8 +30,8 @@ I was highly praised by my colleagues and mentors in the 2020 year-end evaluatio
 
 ## Institute of Automation, Chinese Academy of Sciences
 
-Research Assistant Intern, 02/2017-02/2017
+#### Research Assistant Intern, 02/2017-02/2017
 
-### Skill: C++, Likong
+#### Skill: C++, Likong
 
 In this short-term research internship, my team was responsible for designing a control system based on Modbus communication protocol for intelligent buildings, where control signals are transmitted through signal lines and Wi-Fi. We were also testing our design on automation control software.
