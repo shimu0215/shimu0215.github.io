@@ -14,6 +14,11 @@ Bachelor of Science, Electrical Engineering
 
 Bachelor of Science, Architecture
 
+#### Beijing Normal University, Beijing, China, 02/2021 - 07/2021
+Visiting student
+
+#### Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
+Visiting student
 
 
 What else do you need?
