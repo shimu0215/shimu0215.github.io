@@ -13,28 +13,21 @@ subtitle: Seeking for a PhD/RA position.
 - Bachelor of Science, Electrical Engineering
 - Bachelor of Science, Architecture
 
+
 ## Academic Visiting
 
-#### Beijing Normal University, Beijing, China, 02/2021 - 07/2021
+Beijing Normal University, Beijing, China, 02/2021 - 07/2021
 
-#### Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
+Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
+
 
 ## Work Experience
 
 #### ATMAN INTELLIGENT TECHNOLOGY CO. LTD
-JAVA and NLP develop engineer intern Aug. 2020-Feb. 2021
+NLP and Java engineer Aug. 2020-Feb. 2021
 
-I was responsible for the development of medical literature analysis function and NLP
-model training and deploying. Worked using an Agile development and DevOps
-approach.
-- Developed an online document annotation platform(JAVA, Spring Boot, RESTful API,
-HSQLDB), deployed and maintained it on our server(Linux, Docker, Git). Optimized the
-display strategy, increased the loading speed to the available level(JavaScript).
-- Implemented a data processing pipeline(JAVA, Shell, RESTful API). Designed our own
-data format to structure literature. Wrote instructions and design documents.
-- Implemented an online file system for our data set, incorporated Hirschberg algorithm to
-it to realize sequence matching between articles(JAVA). This algorithm improved
-processing speed greatly since it is constant in both time and space complexity.
-- Improved the general accuracy of a literature analysis NLP model(CRF++) from70% to
-97% when working in English literature. Improved its general accuracy from 30% to 90%
-when working in another language literature.
+ATMAN is a start-up company founded by a Microsoft team, which is committed to providing information upgrading services(mainly based on NLP and GNN) for pharmaceutical enterprises and research institutions. 
+My team mainly serves Sanofi, the world's leading pharmaceutical enterprise, and our products have received high praise from users.
+
+I am responsible for developing and training the function of analyzing medical literature with CRF model, and supporting the construction of Knowledge graph with analysis results. I am also responsible for designing our data structure and guiding and managing colleagues responsible for data annotation.
+
