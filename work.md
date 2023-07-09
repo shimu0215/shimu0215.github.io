@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wenrui Zhao
-subtitle: Master student in Tufts University major in EE. 
+title: Work Experience
+subtitle: 
 ---
 
 ## Education
