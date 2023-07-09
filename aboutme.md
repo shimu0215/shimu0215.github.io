@@ -10,13 +10,6 @@ subtitle: Seeking for a PhD/RA position.
 - Bachelor of Science, Electrical Engineering, Xi’an University of Architecture and Technology, China
 - Bachelor of Science, Architecture, Xi’an University of Architecture and Technology, China
 
-
-## Academic Visiting
-
-- Beijing Normal University, Beijing, China, 02/2021 - 07/2021
-- Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
-
-
 ## Work Experience
 
 For details on my work experience, please access through the navigation bar.
@@ -26,6 +19,14 @@ For details on my work experience, please access through the navigation bar.
 
 - Institute of Automation, Chinese Academy of Sciences
 , Research Assistant, Feb. 2017-Feb. 2017
+
+## Academic Visiting
+
+- Beijing Normal University, Beijing, China, 02/2021 - 07/2021
+- Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
+
+
+
 
 
 
