@@ -6,12 +6,9 @@ subtitle: Seeking for a PhD/RA position.
 
 ## Education
 
-#### Tufts University, Medford, MA, 02/2021 - 05/2023
-- Master of Science, Electrical Engineering
-
-#### Xi’an University of Architecture and Technology, Xi`an, China, 09/2019 - 05/2021
-- Bachelor of Science, Electrical Engineering
-- Bachelor of Science, Architecture
+- Master of Science, Electrical Engineering, Tufts University, Medford, MA
+- Bachelor of Science, Electrical Engineering, Xi’an University of Architecture and Technology, China
+- achelor of Science, Architecture, Xi’an University of Architecture and Technology, China
 
 
 ## Academic Visiting
