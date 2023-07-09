@@ -8,7 +8,9 @@ tags: [Graph Nerual Network, Torch, Torch Geometric]
 comments: false
 ---
 
-This repo contains the PyTorch implementation of Kriging Convolutional Networks (KCNs) [1]. The original code release was an implementation with TensorFlow 1.x, which is not well supported now. In this repo, we update the implementation with PyTorch and PyTorch Geometric. We hope this new implementation will help researchers in this field. If you have any questions about this repo, please feel free to raise issues.
+I lead the PyTorch implementation of Kriging Convolutional Networks (KCNs) [1]. There was an old implementation with TensorFlow 1.x, which is not well supported now. In this project, we update the implementation with PyTorch and PyTorch Geometric. We hope this new implementation will help researchers in this field. 
+
+We made some modifications to the model and conducted parameter fine-tuning to increase their performances on different datasets. Performances improved when tested on different datasets. The performance increases from 0.50/0.49/0.44 to 0.46/0.45/0.44 when running on a dataset of bird counts[2].(The three results correspond to the construction of kcn using GCN, GAT, GraphSAGE.)
 
 **Github : https://github.com/tufts-ml/kcn-torch#a-pytorch-implementation-of-kriging-convolutional-networks**
 
