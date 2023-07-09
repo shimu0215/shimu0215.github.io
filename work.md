@@ -4,27 +4,29 @@ title: Work Experience
 subtitle: 
 ---
 
-## Education
+## ATMAN Intelligent Technology CO. LTD 
 
-- Master of Science, Electrical Engineering, Tufts University
-- Bachelor of Science, Electrical Engineering, Xi’an University of Architecture and Technology
-- Bachelor of Science, Architecture, Xi’an University of Architecture and Technology
+NLP and Java Engineer, 08/2020-02/2021
 
-## Work Experience
+ATMAN is a start-up company founded by a Microsoft team, which is committed to providing information upgrading services(mainly based on NLP and GNN) for the pharmaceutical industry. 
+My team mainly serves Sanofi and our products have received high praise from users.
 
-For details on my work experience, please access through the navigation bar.
+I am responsible for developing and training the model of analyzing medical literature, and supporting the construction of Knowledge graph with analysis results. I am also responsible for designing our data structure and guiding and managing colleagues responsible for data annotation.
 
-- ATMAN Intelligent Technology CO. LTD
-  NLP and Java Engineer, 08/2020-02/2021
-- Institute of Automation, Chinese Academy of Sciences, Research Assistant, 02/2017-02/2017
+- Developed an online document annotation platform, deployed and maintained it on our server. Optimized the
+display strategy, increased the loading speed to the available level.
+- Implemented a data processing pipeline. Designed our own
+data format to structure literature. Wrote instructions and design documents.
+• Implemented an online file system for our data set, incorporated Hirschberg algorithm to
+it to realize sequence matching between articles. This algorithm improved
+processing speed greatly since it is constant in both time and space complexity.
+• Improved the general accuracy of a literature analysis NLP model(CRF++) from 70% to
+97% when working in English literature. Improved its general accuracy from 30% to 90%
+when working in another language literature.
 
-## Academic Visiting
+Skills: Java, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
 
-- Beijing Normal University, Beijing, China, 02/2021 - 07/2021
-- Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
+## Institute of Automation, Chinese Academy of Sciences
 
-
-
-
-
+Research Assistant, 02/2017-02/2017
 
