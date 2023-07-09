@@ -22,9 +22,22 @@ Visiting student
 #### Hong Kong Polytechnic University, Hong Kong, China, 08/2018 - 08/2018
 Visiting student
 
+### Work Experience
 
-What else do you need?
+#### ATMAN INTELLIGENT TECHNOLOGY CO. LTD
+JAVA and NLP develop engineer intern Aug. 2020-Feb. 2021
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was responsible for the development of medical literature analysis function and NLP
+model training and deploying. Worked using an Agile development and DevOps
+approach.
+- Developed an online document annotation platform(JAVA, Spring Boot, RESTful API,
+HSQLDB), deployed and maintained it on our server(Linux, Docker, Git). Optimized the
+display strategy, increased the loading speed to the available level(JavaScript).
+- Implemented a data processing pipeline(JAVA, Shell, RESTful API). Designed our own
+data format to structure literature. Wrote instructions and design documents.
+- Implemented an online file system for our data set, incorporated Hirschberg algorithm to
+it to realize sequence matching between articles(JAVA). This algorithm improved
+processing speed greatly since it is constant in both time and space complexity.
+- Improved the general accuracy of a literature analysis NLP model(CRF++) from70% to
+97% when working in English literature. Improved its general accuracy from 30% to 90%
+when working in another language literature.
