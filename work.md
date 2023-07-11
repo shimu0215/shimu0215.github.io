@@ -15,18 +15,19 @@ My team mainly provides Sanofi with medical literature analysis and medical conf
 
 I was responsible for developing and training the model of analyzing medical literature, and supporting the construction of knowledge graph with analysis results. I was also responsible for designing the structure our data set and guiding colleagues responsible for data annotation.
 
-My concrete works:
+My concrete work achievements:
 
-- Developed an online document annotation platform, deployed and maintained it on our server. Optimized the
-display strategy, increased the loading speed to the available level.
-- Implemented a data processing pipeline. Designed our own
-data format to structure literature. Wrote instructions and design documents.
-- Implemented an online file system for our data set, incorporated Hirschberg algorithm to
-it to realize sequence matching between articles. This algorithm improved
-processing speed greatly since it is constant in both time and space complexity.
-- Improved the general accuracy of a literature analysis NLP model(CRF++) from 70% to
-97% when working in English literature. Improved its general accuracy from 30% to 90%
-when working in another language literature.
+- Improved the general accuracy of a literature analysis NLP model(CRF++) from 70% to 97% when working in English literature.
+  Modify it to fit Chinese data, improved its general accuracy from 30% to 93%when working in Chinese literature.
+- Implemented an online file system for our data set.
+  Based on an existing paper, incorporated Hirschberg algorithm to our system to realize sequence matching between articles.
+  This algorithm improved processing speed greatly since it is constant in both time and space complexity.
+- Developed an online document annotation platform, deployed and maintained it on our server.
+  Optimized the display strategy, increased the loading speed to the available level.
+- Implemented a data processing pipeline.
+  Designed our own data format to structure literature.
+  Wrote instructions and design documents.
+
 
 I was highly praised by my colleagues and mentors in the 2020 year-end evaluation and received a score of 4.87/5.0.
 
