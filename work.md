@@ -8,7 +8,7 @@ subtitle:
 
 #### NLP Engineer, 08/2020-02/2021
 
-#### Skills: Java, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
+#### Skills: Java, Python, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
 
 ATMAN is a start-up company founded by a Microsoft team, which is committed to providing information upgrading services(mainly based on NLP and GNN) for the pharmaceutical industry. 
 My team mainly serves Sanofi and our products have received high praise from users.
