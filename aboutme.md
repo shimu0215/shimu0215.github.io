@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wenrui Zhao
-subtitle: Master student in Tufts University major in EE. 
+subtitle: EE Master student in Tufts University | Medford, MA
 ---
 
 ## Education
