@@ -15,6 +15,8 @@ My team mainly provides Sanofi with medical literature analysis and medical conf
 
 I was responsible for developing and training the model of analyzing medical literature, and supporting the construction of knowledge graph with analysis results. I was also responsible for designing the structure our data set and guiding colleagues responsible for data annotation.
 
+My concrete works:
+
 - Developed an online document annotation platform, deployed and maintained it on our server. Optimized the
 display strategy, increased the loading speed to the available level.
 - Implemented a data processing pipeline. Designed our own
