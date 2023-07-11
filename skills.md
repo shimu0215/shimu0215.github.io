@@ -9,7 +9,7 @@ I have participated in the application of AI in the science industry as an NLP e
 
 I have project experience in graph neural network, reinforcement learning and robotics. This summer, I am helping professor with his work about GeoAI. I am very interested in all research directions related to deep learning and robotics.
 
-In the senior year of my undergraduate study, I helped my professor guide other students' senior designs, and if needed, I am able to understand and participate in other people's projects well.
+In the senior year of my undergraduate study, I helped my professor guide other students' senior designs, so if needed, I am able to understand and participate in other people's projects well.
 
 ## Courses
 - CS Courses: Graph Neural Networks, Deep Neural Networks, Robotics, Robot Operating System, Convex Optimization, Algorithm, Computer Network, Data Structures, Operating System, Computer Engineering
