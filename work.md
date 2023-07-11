@@ -11,9 +11,9 @@ subtitle:
 #### Skills: Java, Python, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
 
 ATMAN is a start-up company founded by a Microsoft team, which is committed to providing information upgrading services(mainly based on NLP and GNN) for the pharmaceutical industry. 
-My team mainly serves Sanofi and our products have received high praise from users.
+My team mainly provides Sanofi with medical literature analysis and medical confirmation function, our products have received high praise from users.
 
-I was responsible for developing and training the model of analyzing medical literature, and supporting the construction of Knowledge graph with analysis results. I was also responsible for designing our data structure and guiding and managing colleagues responsible for data annotation.
+I was responsible for developing and training the model of analyzing medical literature, and supporting the construction of knowledge graph with analysis results. I was also responsible for designing the structure our data set and guiding colleagues responsible for data annotation.
 
 - Developed an online document annotation platform, deployed and maintained it on our server. Optimized the
 display strategy, increased the loading speed to the available level.
