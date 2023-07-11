@@ -12,7 +12,7 @@ subtitle: EE Master student in Tufts University | Medford, MA
 
 ## Work Experience
 
-For details on my work experience, please access through the navigation bar.
+For details on my work experience, please access 'WORK EXPERIENCE' through the navigation bar.
 
 - ATMAN Intelligent Technology CO. LTD
   NLP and Java Engineer, 08/2020-02/2021
