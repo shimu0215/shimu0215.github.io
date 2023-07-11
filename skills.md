@@ -20,5 +20,5 @@ In the senior year of my undergraduate study, I helped my professor guide other 
 - Programming Languages: Java, Python, C, SQL, Matlab, VHDL, Shell
 - Libraries: PyTorch, Torch Geometric, TorchRL, learn2learn, cherry, OpenAI Gym, tensorflow, other conventional Python libraries
 - Tools: ROS, Gazebo, Git, Linux
-- Auxiliary tools: LaTex, PS, AI and other drawing softwares, sketch up and other 3D Modeling software
+- Auxiliary tools: LaTex, PS, AI and other drawing softwares, sketch up and other 3D modeling softwares
 - Engineering tools: Maven, Gradle, Docker, Redis, Spring, MySQL, HSQLDB, MongoDB
