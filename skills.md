@@ -5,11 +5,11 @@ subtitle:
 ---
 
 ## Overview
-I have participated in the application of AI in the science industry as an NLP engineer and have good practical and collaborative abilities. I have mature software development skills and can write standardized, efficient, and readable code. I can also quickly read other people's code and debug or modify it.
+I have work experience as an NLP engineer. In this job, we expect to use AI to assist the science industry. Through this job, I have the ability to write standardized, efficient, and readable code, as well as quickly read open source code and debug, modify, or optimize it.
 
-I have project experience in graph neural network, reinforcement learning and robotics. This summer, I am helping professor with his work about GeoAI. I am very interested in all research directions related to deep learning and robotics.
+I have project experience in GNN, RL and robotics during my graduate study. And in my undergraduate study, I spent the most time on projects related to embedded systems and hardware design, and robotics. This summer, I am helping my professor with his work about GNN and GeoAI. I am passionate about applying AI in different fields, so I am very interested in all research directions related to deep learning and robotics.
 
-In the senior year of my undergraduate study, I helped my professor guide other students' senior designs, so if needed, I am able to understand and participate in other people's projects well.
+In the senior year of my undergraduate study, I helped my professor guide other students' senior designs, so if needed, I believe I am able to understand and participate in other people's projects well.
 
 ## Courses
 - CS Courses: Graph Neural Networks, Deep Neural Networks, Robotics, Robot Operating System, Convex Optimization, Algorithm, Computer Network, Data Structures, Operating System, Computer Engineering
