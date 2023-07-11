@@ -1,37 +1,22 @@
 ---
 layout: page
-title: Work Experience
+title: Skills
 subtitle: 
 ---
 
-## ATMAN Intelligent Technology CO. LTD 
+## Courses
+- CS Courses: Graph Neural Networks, Deep Neural Networks, Robotics, Robot Operating System, Convex Optimization, Algorithm, Computer Network, Data Structures, Operating System, Computer Engineering
+- EE Courses: Probabilistic System, Computer Interface, FPGA, Embed System, Power System, Communication Theory, Signals and Systems, Analog Circuit Design, Digital Circuit Design
 
-NLP and Java Engineer, 08/2020-02/2021
+## Overview
+I have participated in the application of AI in the science industry as an NLP engineer and have good practical and collaborative abilities. I have mature software development skills and can write standardized, efficient, and readable code. I can also quickly read other people's code and debug or modify it.
 
-ATMAN is a start-up company founded by a Microsoft team, which is committed to providing information upgrading services(mainly based on NLP and GNN) for the pharmaceutical industry. 
-My team mainly serves Sanofi and our products have received high praise from users.
+I have project experience in graph neural network, reinforcement learning and robotics. This summer, I am helping professor with his work about GeoAI. I am very interested in all research directions related to deep learning and robotics.
 
-I was responsible for developing and training the model of analyzing medical literature, and supporting the construction of Knowledge graph with analysis results. I was also responsible for designing our data structure and guiding and managing colleagues responsible for data annotation.
+In the senior year of my undergraduate study, I helped my professor guide other students' senior designs, and if needed, I am able to understand and participate in other people's projects well.
 
-- Developed an online document annotation platform, deployed and maintained it on our server. Optimized the
-display strategy, increased the loading speed to the available level.
-- Implemented a data processing pipeline. Designed our own
-data format to structure literature. Wrote instructions and design documents.
-- Implemented an online file system for our data set, incorporated Hirschberg algorithm to
-it to realize sequence matching between articles. This algorithm improved
-processing speed greatly since it is constant in both time and space complexity.
-- Improved the general accuracy of a literature analysis NLP model(CRF++) from 70% to
-97% when working in English literature. Improved its general accuracy from 30% to 90%
-when working in another language literature.
-
-Skills: Java, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
-
-I was highly praised by my colleagues and mentors in the 2020 year-end evaluation and received a score of 4.87/5.0.
-
-## Institute of Automation, Chinese Academy of Sciences
-
-Research Assistant Intern, 02/2017-02/2017
-
-In this short-term research internship, my team was responsible for designing a control system based on Modbus communication protocol for intelligent buildings, where control signals are transmitted through signal lines and Wi-Fi. We were also testing our design on automation control software.
-
-Skill: C++, Likong
+### Programming Languages: Java, Python, C, SQL, Matlab, VHDL, Shell
+### Libraries: PyTorch, Torch Geometric, TorchRL, learn2learn, cherry, OpenAI Gym, tensorflow, other conventional Python libraries
+### Tools: ROS, Gazebo, Git, Linux
+### Auxiliary tools: LaTex, PS, AI and other drawing softwares, sketch up and other 3D Modeling software
+### Engineering tools: Maven, Gradle, Docker, Redis, Spring, MySQL, HSQLDB, MongoDB
