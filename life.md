@@ -26,3 +26,13 @@ Whisky & Gin!!
 
 ![Crepe](assets/img/“IMG_1353”小.png)
 
+#### Games
+
+Enjoy playing various desktop games, from Texas poker to Splendor, and also Three Kingdoms Killing(San Guo Sha)!!
+
+Big fans of Civilization 6, play LoL sometimes.
+
+![Crepe](assets/img/“截屏2023-07-12 00.32.07”小.png)
+
+
+
