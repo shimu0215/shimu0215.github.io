@@ -36,10 +36,13 @@ Big fans of Civilization 6, play LoL sometimes.
 
 #### Travel and take some photos
 
+![Crepe](assets/img/3.png)
 ![Crepe](assets/img/1.png)
 ![Crepe](assets/img/2.png)
-![Crepe](assets/img/3.png)
 ![Crepe](assets/img/4.png)
+
+![Crepe](assets/img/5.png)
+![Crepe](assets/img/6.png)
 
 
 
