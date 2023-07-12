@@ -29,7 +29,9 @@ An amateur bartender and alcohol ‘expert’ with poor alcohol tolerance :(
 
 Whisky & Gin!!
 
-Likes reading literature and philosophy, a follower of Kant.
+Likes reading history, literature and philosophy, a follower of Kant.
+
+And my mbti is ENTP.
 
 #### Games
 
