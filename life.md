@@ -18,11 +18,11 @@ Was a drumer in a rock band. Pink Floyd and King Crimson are my favorite bands, 
 
 A Chinese and Western chef who failed in the market..
 
-![Crepe](assets/img/“IMG_1351”小.png)
+![Crepe](assets/img/“IMG_1675”小.png)
 
 An amateur bartender and alcohol ‘expert’ with poor alcohol tolerance :( 
 
 Whisky & Gin!!
 
-![Crepe](assets/img/“IMG_1351”小.png)
+![Crepe](assets/img/“IMG_1353”小.png)
 
