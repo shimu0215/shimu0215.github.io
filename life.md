@@ -4,6 +4,8 @@ title:  My life~
 subtitle: 
 ---
 
+# Important : All of the following things will make way for research and work!!!!!
+
 #### Art
 
 Obtained my second major in Architecture and enjoy various ancient or modern architecture. 
