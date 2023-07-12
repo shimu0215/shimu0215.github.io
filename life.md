@@ -16,7 +16,7 @@ Was a drumer in a rock band. Pink Floyd and King Crimson are my favorite bands, 
 
 #### Daily Life
 
-A Chinese and Western chef who failed in the market..
+A Chinese and Western chef who often fails..
 
 ![Crepe](assets/img/“IMG_1675”小.png)
 
