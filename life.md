@@ -18,23 +18,21 @@ Was a drumer in a rock band. Pink Floyd and King Crimson are my favorite bands, 
 
 #### Daily Life
 
-A Chinese and Western chef who often fails..
-
 ![Crepe](assets/img/“IMG_1675”小.png)
+![Crepe](assets/img/“IMG_1353”小.png)
+![Crepe](assets/img/“截屏2023-07-1200.32.07”小.png)
+
+A Chinese and Western chef who often fails..
 
 An amateur bartender and alcohol ‘expert’ with poor alcohol tolerance :( 
 
 Whisky & Gin!!
-
-![Crepe](assets/img/“IMG_1353”小.png)
 
 #### Games
 
 Enjoy playing various desktop games, from Texas poker to Splendor, and also Three Kingdoms Killing(San Guo Sha)!!
 
 Big fans of Civilization 6, play LoL sometimes.
-
-![Crepe](assets/img/“截屏2023-07-1200.32.07”小.png)
 
 #### Travel and take some photos
 
