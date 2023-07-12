@@ -21,6 +21,7 @@ Was a drumer in a rock band. Pink Floyd and King Crimson are my favorite bands, 
 ![Crepe](assets/img/“IMG_1675”小.png)
 ![Crepe](assets/img/“IMG_1353”小.png)
 ![Crepe](assets/img/“截屏2023-07-1200.32.07”小.png)
+![Crepe](assets/img/6.png)
 
 A Chinese and Western chef who often fails..
 
@@ -43,7 +44,7 @@ Big fans of Civilization 6, play LoL sometimes.
 ![Crepe](assets/img/4.png)
 
 ![Crepe](assets/img/5.png)
-![Crepe](assets/img/6.png)
+
 
 
 
