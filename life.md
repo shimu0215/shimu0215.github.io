@@ -29,6 +29,8 @@ An amateur bartender and alcohol ‘expert’ with poor alcohol tolerance :(
 
 Whisky & Gin!!
 
+Likes reading literature and philosophy, a follower of Kant.
+
 #### Games
 
 Enjoy playing various desktop games, from Texas poker to Splendor, and also Three Kingdoms Killing(San Guo Sha)!!
