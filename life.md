@@ -34,7 +34,9 @@ Enjoy playing various desktop games, from Texas poker to Splendor, and also Thre
 
 Big fans of Civilization 6, play LoL sometimes.
 
-![Crepe](assets/img/“截屏2023-07-12 00.32.07”小.png)
+![Crepe](assets/img/“截屏2023-07-1200.32.07”小.png)
+
+
 
 
 
