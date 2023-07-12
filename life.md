@@ -36,6 +36,13 @@ Big fans of Civilization 6, play LoL sometimes.
 
 ![Crepe](assets/img/“截屏2023-07-1200.32.07”小.png)
 
+#### Travel and take some photos
+
+![Crepe](assets/img/1.png)
+![Crepe](assets/img/2.png)
+![Crepe](assets/img/3.png)
+![Crepe](assets/img/4.png)
+
 
 
 
