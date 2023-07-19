@@ -19,11 +19,10 @@ My concrete work achievements:
 
 - Improved the general accuracy of a literature segmentation model(based on CRF) from 70% to 97% when working in English literature.
   Modify it to fit Chinese literature, improved its general accuracy from 30% to 93%when working in Chinese literature.
-- Implemented an online file system for our data set.
-  Based on an existing paper, incorporated Hirschberg algorithm to our system to realize sequence matching between articles.
-  This algorithm improved processing speed greatly since it is constant in both time and space complexity.
 - Developed an online document annotation platform, deployed and maintained it on our server.
   Optimized the display strategy, increased the loading speed to the available level.
+- Based on an existing paper, incorporated Hirschberg algorithm to our system to realize sequence matching between articles.
+  This algorithm improved processing speed greatly since it is constant in both time and space complexity.
 - Implemented a data processing pipeline.
   Designed our own data format to structure literature.
   Wrote instructions and design documents.
