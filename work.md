@@ -17,8 +17,7 @@ I was responsible for developing and training the model of analyzing medical lit
 
 My concrete work achievements:
 
-- Improved the general accuracy of a literature analysis NLP model(CRF++) from 70% to 97% when working in English literature.
-  Modify it to fit Chinese data, improved its general accuracy from 30% to 93%when working in Chinese literature.
+- •	Improved the general accuracy of a literature segmentation model(based on CRF) from 70% to 97% when working in English literature. Modify it to fit Chinese literature, improved its general accuracy from 30% to 93%when working in Chinese literature.
 - Implemented an online file system for our data set.
   Based on an existing paper, incorporated Hirschberg algorithm to our system to realize sequence matching between articles.
   This algorithm improved processing speed greatly since it is constant in both time and space complexity.
