@@ -23,19 +23,19 @@ Was a drumer in a rock band. Pink Floyd and King Crimson are my favorite bands, 
 ![Crepe](assets/img/“截屏2023-07-1200.32.07”小.png)
 ![Crepe](assets/img/6.png)
 
-A Chinese and Western chef who often fails..
+A Chinese and Western chef.
 
-An amateur bartender and alcohol ‘expert’ with poor alcohol tolerance :( 
+An amateur bartender and alcohol ‘expert’. 
 
-Whisky & Gin!!
+Like Whisky & Gin
 
-Likes reading history, literature and philosophy, a follower of Kant.
+Like reading history, literature and philosophy, a follower of Kant.
 
 And my mbti is ENTP.
 
 #### Games
 
-Enjoy playing various desktop games, from Texas poker to Splendor, and also Three Kingdoms Killing(San Guo Sha)!!
+Enjoy playing various desktop games, from Texas poker to Splendor, and also Three Kingdoms Killing(San Guo Sha)
 
 Big fans of Civilization 6, play LoL sometimes.
 
