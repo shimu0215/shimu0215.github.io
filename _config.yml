@@ -24,7 +24,7 @@ navbar-links:
   Work Experience: "work"
   Skills: "skills"
   Awards: "others"
-  My Life: "life"
+  # My Life: "life"
 
 
 ################
