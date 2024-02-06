@@ -14,7 +14,7 @@ subtitle: Master student at Tufts University | Medford, MA
 
 For details on my work experience, please access 'WORK EXPERIENCE' through the navigation bar.
 
-- NLP Engineer, 
+- Machine Learning Engineer, 
   ATMAN Intelligent Technology CO. LTD, 
   2020-2021
 - Research Intern,
