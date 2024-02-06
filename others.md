@@ -8,8 +8,7 @@ subtitle:
 
 ## Competitions
 
-- Provincial First Prize in China Undergraduate Mathematical Contest in Modeling
-- Honorary Award in Mathematical Contest In Modeling
+- First Prize in China Undergraduate Mathematical Contest in Modeling
 - Outstanding Senior Design, XAUAT
 - First Prize in Undergraduate Electronics Design Contest, XAUAT
 
