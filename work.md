@@ -6,7 +6,7 @@ subtitle:
 
 ## ATMAN Intelligent Technology CO. LTD 
 
-#### NLP Engineer, 08/2020-02/2021
+#### Machine Learning Engineer, 2020-2021
 
 #### Skills: Java, Python, Spring Boot, RESTful API, HSQLDB, Linux, Docker, Git, JavaScript, Shell
 
