@@ -13,7 +13,7 @@ subtitle:
 ATMAN is a start-up company founded by a Microsoft team, which is committed to providing information upgrading services(mainly based on NLP and GNN) for the pharmaceutical industry. 
 My team mainly provides Sanofi with medical literature analysis and medical confirmation function, our products have received high praise from users.
 
-I was responsible for developing and training the model of analyzing medical literature, and supporting the construction of knowledge graph with analysis results. I was also responsible for designing the structure our data set and guiding colleagues responsible for data annotation.
+I was responsible for developing and training the model of analyzing medical literature, and supporting the construction of knowledge graph with analysis results. I was also responsible for designing the structure our data set and guiding colleagues for data annotation.
 
 My concrete work achievements:
 
