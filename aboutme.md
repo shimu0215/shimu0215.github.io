@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Wenrui Zhao
-subtitle: EE Master student in Tufts University | Medford, MA
+subtitle: Master student at Tufts University | Medford, MA
 ---
 
 ## Education
 
 - Master of Science, Electrical Engineering, Tufts University
-- Bachelor of Science, Electrical Engineering, Xi’an University of Architecture and Technology
-- Bachelor of Science, Architecture, Xi’an University of Architecture and Technology
+- Bachelor of Science, Electrical Engineering, Xi’an University of Architecture & Technology
+- Bachelor of Science, Architecture, Xi’an University of Architecture & Technology
 
 ## Work Experience
 
@@ -16,7 +16,7 @@ For details on my work experience, please access 'WORK EXPERIENCE' through the n
 
 - NLP Engineer, 
   ATMAN Intelligent Technology CO. LTD, 
-  08/2020-02/2021
+  2020-2021
 - Research Intern,
   Institute of Automation, Chinese Academy of Sciences,
   02/2017-02/2017
