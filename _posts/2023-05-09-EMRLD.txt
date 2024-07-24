@@ -1,0 +1,31 @@
+---
+layout: post
+title: Sparse Reward Navigation through Meta-RL with Demonstration
+subtitle: 
+thumbnail-img: 
+tags: [Meta-RL, Robotics, Demonstration, PPO]
+---
+
+In this project, we are trying to integrate demonstrations from sub-optimal agents or human feed back into the training of a Meta-policy for a navigation problem.(Our Meta-RL algorithm is based on MAML and TRPO.) We train inexpert Proximal Policy Optimization(PPO) agents in each environment to collect demonstration data and used Behavior Cloning(BC) to incorporate the guidance. We also incorporated human guidance to do a Gazebo simulated TurtleBot navigation experiment. 
+
+#### skills: RL, Meta-RL, ROS, Gazebo
+
+### Motivation
+
+Reinforcement Learning (RL) has achieved many success in various games and environments. However, RL still faces great challenge in real robots due to the sparse reward nature of the environment. In this project, we study robot navigation in sparse reward environments using meta Reinforcement Learning. The meta-policy is able to be adjusted to multiple environments with only few steps of task specific adaption. The demonstration we use in this project could be inexpert, which is relatively easy to obtain. But it can greatly reduce the training time of the policy and enable it to receive higher rewards in experiments.
+
+### Method
+
+The general algorithm is based on MAML, which is a policy gradient on-policy algorithm. 
+We provide the general loss function, which is a weighted average of RL loss and BC loss. 
+Minimizing BC loss encourages the agent to mimic the demonstrations at the beginning stage of the training,
+when RL is hard to conduct due to the sparse reward, then minimizing RL loss allows the agent to explore and exceed inexpert demonstrations eventually.
+
+For our sub-agent, TRPO and PPO algorithms share a lot in common, but PPO has been widely proven to be more efficient than
+TRPO in most circumstances. We decide to implement PPO agents to do the demonstration trajectory collection.
+
+### Environment
+- We conducted experiments on three modified sparse-reward continuous-control mujoco environments. They are three navigation problems with increasing complexity.
+
+- We also did experiment on a TurtlrBot simulated in Gazebo.
+
